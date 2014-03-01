@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Templates>
+  <Template name="Completo Português ABNT">
+    <TemplateElement>title</TemplateElement>
+    <TemplateElement>english_title</TemplateElement>
+    <TemplateElement>contributors</TemplateElement>
+    <TemplateElement>keywords</TemplateElement>
+    <TemplateElement>english_keywords</TemplateElement>
+    <TemplateElement>abstract</TemplateElement>
+    <TemplateElement>english_abstract</TemplateElement>
+    <TemplateElement>citation_list</TemplateElement>
+  </Template>
+  <Template name="Resumo Português ABNT">
+    <TemplateElement>title</TemplateElement>
+    <TemplateElement>english_title</TemplateElement>
+    <TemplateElement>contributors</TemplateElement>
+    <TemplateElement>keywords</TemplateElement>
+    <TemplateElement>abstract</TemplateElement>
+    <TemplateElement>english_abstract</TemplateElement>
+  </Template>
+  <Template name="APA">
+    <TemplateElement>english_title</TemplateElement>
+    <TemplateElement>contributors</TemplateElement>
+    <TemplateElement>english_keywords</TemplateElement>
+    <TemplateElement>english_abstract</TemplateElement>
+  </Template>
+
+  <Template name="IEEE">
+    <TemplateElement>english_title</TemplateElement>
+    <TemplateElement>contributors</TemplateElement>
+    <TemplateElement>english_keywords</TemplateElement>
+    <TemplateElement>english_abstract</TemplateElement>
+    <TemplateElement>citation_list</TemplateElement>
+  </Template>
+
+  <Template name="ACS">
+    <TemplateElement>english_title</TemplateElement>
+    <TemplateElement>contributors</TemplateElement>
+    <TemplateElement>english_keywords</TemplateElement>
+    <TemplateElement>english_abstract</TemplateElement>
+    <TemplateElement>citation_list</TemplateElement>
+  </Template>
+
+  <Template name="Chicago">
+    <TemplateElement>english_title</TemplateElement>
+    <TemplateElement>contributors</TemplateElement>
+    <TemplateElement>english_abstract</TemplateElement>
+    <TemplateElement>citation_list</TemplateElement>
+  </Template>
+</Templates>
